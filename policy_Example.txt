@@ -1,0 +1,10 @@
+# POLICY NAME
+# Blank lines are skipped
+# # Comments are skipped
+# one line per entry
+# filename POLICY_{POLICYID}.TXT must match policy ID for action to be taken
+
+outlook.com
+contoso.com
+user@example.com
+user@contoso.com
