@@ -1,2 +1,3 @@
 # Special Policy File containing users/domains always considered trusted
 # (i.e. if any external sharing occurs only with these domains, no problem)
+# formats supported: user@domain.com  domain.com
